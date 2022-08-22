@@ -23,3 +23,5 @@
   <img align="center" alt="PS" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
   <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 </div>
+
+![Snake animation](https://github.com/Mauro010BR/Mauro010BR/blob/output/github-contribution-grid-snake.svg)
