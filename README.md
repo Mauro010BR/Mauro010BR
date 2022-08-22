@@ -1,8 +1,7 @@
 ## Olá, Meu nome é Mauro. Muito prazer!
 
-- 🖥️ Atualmente trabalho com Telemarketing
+- 🖥️ Estudante de Analise e Desenvolvimento de Sistemas, atualmente no 2º semestre. (2/4)
 - 📒 Estou estudando SQL e Power BI
-- 📚 Atualmente estou me formando em ADS
 - 👍 Tenho grande interesse em estagiar como BI
 
 <div align="center">
