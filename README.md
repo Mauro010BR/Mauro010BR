@@ -1,7 +1,7 @@
 ## Olá, Meu nome é Mauro. Muito prazer!
 
 - 🖥️ Estudante de Analise e Desenvolvimento de Sistemas, atualmente no 3º semestre. (3/4)
-- 📒 Estou estudando SQL e Power BI
+- 📒 Estou estudando SQL e Power BI.
 - 👍 Tenho grande interesse em estagiar como BI
 
 <div align="center">
