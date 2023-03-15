@@ -2,7 +2,7 @@
 
 - 🖥️ Estudante de Analise e Desenvolvimento de Sistemas, atualmente no 3º semestre. (3/4)
 - 📒 Estou estudando SQL e Power BI.
-- 👍 Tenho grande interesse em estagiar como BI.
+
 
 <div align="center">
   <a href="https://github.com/Mauro010BR">
