@@ -1,7 +1,7 @@
 ## Olá, Meu nome é Mauro. Muito prazer!
 
-- 🖥️ Estudante de Analise e Desenvolvimento de Sistemas, atualmente no 3º semestre. (3/4)
-- 📒 Estou estudando SQL e Power BI.
+- 🖥️ Formado em Analise e Desenvolvimento de Sistemas.
+- 📒 Trabalho atualmente como MIS.
 
 
 <div align="center">
