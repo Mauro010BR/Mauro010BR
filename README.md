@@ -1,31 +1,72 @@
-## Olá, Meu nome é Mauro. Muito prazer!
 
-- 🖥️ Formado em Analise e Desenvolvimento de Sistemas.
-- 📒 Atuando na área de MIS.
+## 👋 Olá, eu sou o Mauro Junior
+
+Sou **Analista de Dados** com mais de **2 anos de experiência**, atuando de ponta a ponta no **ciclo de dados** — desde a modelagem e engenharia até a análise, visualização e storytelling.
+
+🎓 **Formação**
+
+* Tecnólogo em **Análise e Desenvolvimento de Sistemas** (UMC - Universidade de Mogi das Cruzes)
+* **Pós-graduação em Data Analytics** (FIAP - Faculdade de Informática e Administração Paulista)
+
+🎓 **Certificação**  
+* **PL-300 (Microsoft Power BI Data Analyst)**
 
 
-<div align="center">
-  <a href="https://github.com/Mauro010BR">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mauro010BR&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mauro010BR&layout=compact&langs_count=16&theme=chartreuse-dark&include_all_commits=true&count_private=true""/>
-</div>
- 
-  ## Linguagens que utilizo
+---
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="SQL" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-  <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-</div>
+## 🚀 Principais Competências
+
+### 📊 Business Intelligence & Analytics
+
+* Power BI 
+* Power Query 
+* Dashboards executivos e analíticos orientados a negócio
   
-  ## Conhecimentos Gerais
-  
-  <div style="display: inline_block"><br>
-  <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img align="center"alt="Java"src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>   
-  <img align="center" alt="Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img align="center" alt="PS" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
-</div>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
-![Snake animation](https://github.com/Mauro010BR/Mauro010BR/blob/output/github-contribution-grid-snake.svg)
+### 📊 Dados & Engenharia
+
+* SQL: **SQL Server, MySQL, Snowflake e BigQuery**
+* Modelagem relacional e dimensional
+* Integração e transformação de grandes volumes de dados
+
+### 🤖 Data Science & Machine Learning
+
+* Python (Pandas, NumPy, Scikit-learn, XGBoost, ARIMA)
+* Séries temporais e modelos preditivos
+* Avaliação de modelos (MAE, MSE, RMSE, MAPE)
+* Deploy de modelos com **Streamlit (MVP)**
+
+### 📈 Estatística Aplicada
+
+* Estatística descritiva e exploratória
+* Correlação, variância, desvio padrão
+* Análise de outliers, sazonalidade e tendências
+
+---
+
+## 🧰 Ferramentas & Tecnologias
+
+* **BI & Visualização**: Power BI
+* **Linguagens**: SQL, Python
+* **Bancos de Dados**: SQL Server, MySQL, Snowflake, BigQuery
+* **Cloud & Big Data**: Google Cloud, Spark
+* **Versionamento**: Git & GitHub
+
+---
+
+## 📚 Em constante evolução
+
+* Boas práticas de modelagem semântica e performance
+* Deploy e monitoramento de modelos em produção
+
+---
+
+## 📌 GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mauro010BR\&hide=html\&layout=compact\&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+📫 **Vamos nos conectar!**
+Fique à vontade para explorar meus repositórios ou trocar ideias sobre **dados, BI e analytics** 🚀
